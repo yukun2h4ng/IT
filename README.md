@@ -1,5 +1,5 @@
 # How to Control Videos Using Media Keys within Mozilla Firefox
-##### Yukun Zhang
+#### Yukun Zhang
 
 The purpose of this tutorial is to teach users how to control videos within Firefox using media keys.
 
