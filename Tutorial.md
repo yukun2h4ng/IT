@@ -5,7 +5,9 @@ Install the Media Keys Add-on from the Firefox Add-ons page by using this [link]
 
 or
 
-Access the Add-ons page by holding down "Ctrl+Shift+A" or Going to the "Tools" menu and selecting "Add-ons" and type "Media Keys" in the search bar and look for this icon: 
+Access the Add-ons page by holding down "Ctrl+Shift+A" or by going to the "Tools" menu and selecting "Add-ons" 
+
+Afterwards type "Media Keys" in the search bar and look for this icon: 
 
 ![Media Keys Icon][Media Keys]
 
