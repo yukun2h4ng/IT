@@ -38,7 +38,7 @@ To change the default settings, you will need to go under "Media Event Mappings"
 
 ![Media Keys Assign](https://i.imgur.com/QZqtB4G.jpg)
 
-## Congragulations!
+## Congratulations!
 
 You can now use your keyboard media keys to control videos in Firefox!
 
