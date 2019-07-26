@@ -2,7 +2,7 @@
 
 ## Step 1
 
-Install the Media Keys Add-on from the Firefox Add-ons page by using this [link][Media Keys Link](.
+Install the Media Keys Add-on from the Firefox Add-ons page by using this [link][Media Keys Link].
 
 or
 
@@ -38,8 +38,10 @@ To change the default settings, you will need to go under "Media Event Mappings"
 
 ![Media Keys Assign](https://i.imgur.com/QZqtB4G.jpg)
 
-## Step 5
-![Media Keys Preferences](https://i.imgur.com/uYz66Op.jpg)
+## Congragulations!
+
+You can now use your keyboard media keys to control videos in Firefox!
+
 
 
 [Media Keys]: https://addons.cdn.mozilla.net/user-media/addon_icons/553/553354-64.png?modified=1548204465
