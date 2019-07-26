@@ -39,6 +39,8 @@ To change the default settings, you will need to go under "Media Event Mappings"
 ![Media Keys Assign](https://i.imgur.com/QZqtB4G.jpg)
 
 ## Step 5
-![Media Keys ](https://i.imgur.com/uYz66Op.jpg)
+![Media Keys Preferences](https://i.imgur.com/uYz66Op.jpg)
+
+
 [Media Keys]: https://addons.cdn.mozilla.net/user-media/addon_icons/553/553354-64.png?modified=1548204465
 [Media Keys Link]: https://addons.mozilla.org/en-US/firefox/addon/media-keys/?src=search
